@@ -14,6 +14,34 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-08-24 20:36:50</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 12:55:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b424f25a07321010b582f48f7c1ed079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">4714d746077e5010b582f48f7c1ed002</sys_ui_form>
+            <sys_ui_section caption="log" display_value="log" name="x_58872_needit_needit" sys_domain="global" view="Default view">2024f25a07321010b582f48f7c1ed076</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 12:55:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-25 12:55:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f024f25a07321010b582f48f7c1ed07d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">4714d746077e5010b582f48f7c1ed002</sys_ui_form>
+            <sys_ui_section caption="Statistic" display_value="Statistic" name="x_58872_needit_needit" sys_domain="global" view="Default view">a824f25a07321010b582f48f7c1ed077</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-25 12:55:38</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_58872_needit_needit</name>
             <roles/>
